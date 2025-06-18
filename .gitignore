@@ -1,0 +1,19 @@
+# EVITA QUE SE CREEN ARCHIVOS INNECESARIOS
+
+# Node .js
+node_modules/
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+#OTROS
+.env
+dist/
+
